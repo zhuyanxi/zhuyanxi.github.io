@@ -2,7 +2,7 @@
     "timeline": {
         "headline": "Yanxi Zhu",
         "type": "default",
-        "startDate": "2014-12-03",
+        "startDate": "2014,12",
         "text": "<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
         "asset": {
             "media": "assets/userimg/2014-12-03.JPG",
@@ -20,7 +20,7 @@
                 }
             },
             {
-                "startDate": "2009,5",
+                "startDate": "2015,5",
                 "headline": "Redesign of my portfolio",
                 "text": "",
                 "asset": {
@@ -30,7 +30,7 @@
                 }
             },
             {
-                "startDate": "2009,7",
+                "startDate": "2015,7",
                 "headline": "Another time-lapse experiment",
                 "text": "",
                 "asset": {
@@ -40,7 +40,7 @@
                 }
             },
             {
-                "startDate": "2009,10",
+                "startDate": "2015,10",
                 "headline": "Developed a Gmail Client",
                 "text": "",
                 "asset": {
@@ -50,7 +50,7 @@
                 }
             },
             {
-                "startDate": "2010,3",
+                "startDate": "2016,3",
                 "headline": "Logo Design for a pet shop",
                 "text": "",
                 "asset": {
@@ -60,7 +60,7 @@
                 }
             },
             {
-                "startDate": "2010,4",
+                "startDate": "2016,4",
                 "headline": "Developed an iPad newspaper application",
                 "text": "It was a challenge to create both the design and code in a week.",
                 "asset": {
@@ -70,7 +70,7 @@
                 }
             },
             {
-                "startDate": "2010,8",
+                "startDate": "2016,8",
                 "headline": "Illustration for a big client.",
                 "text": "",
                 "asset": {
@@ -80,7 +80,7 @@
                 }
             },
             {
-                "startDate": "2010,12",
+                "startDate": "2016,12",
                 "headline": "Advert for Volkswagen",
                 "text": "Created the website for their new advertising campaign.",
                 "asset": {
