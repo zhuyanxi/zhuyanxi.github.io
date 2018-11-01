@@ -40,51 +40,71 @@
                 }
             },
             {
-                "startDate": "2015,10",
-                "headline": "Developed a Gmail Client",
+                "startDate": "2015,8,5",
+                "headline": "云南民族村",
+                "text": "11时30分",
+                "asset": {
+                    "media": "assets/userimg/2015-08-05 11-30.JPG",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2015,8,7",
+                "headline": "啥湖来着/笑哭",
+                "text": "11时41分",
+                "asset": {
+                    "media": "assets/userimg/2015-08-07 11-41.JPG",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2015,8,8",
+                "headline": "啥湖来着/笑哭",
+                "text": "11时23分",
+                "asset": {
+                    "media": "assets/userimg/2015-08-08 11-23.JPG",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2015,8,9",
+                "headline": "这我记得，是洱海",
+                "text": "13时43分",
+                "asset": {
+                    "media": "assets/userimg/2015-08-09 13-43.JPG",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2015,8,10",
+                "headline": "比起花，还是bb比较美",
+                "text": "13时9分",
+                "asset": {
+                    "media": "assets/userimg/2015-08-10 13-09.JPG",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2017,12,3",
+                "headline": "看这大白牙",
+                "text": "18时47分",
+                "asset": {
+                    "media": "assets/userimg/2017-12-03 18-47.JPG",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2018,05,19",
+                "headline": "prprprpr",
                 "text": "",
                 "asset": {
-                    "media": "assets/img/shots/shot_1298590416.jpg",
-                    "credit": "<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
-                    "caption": ""
-                }
-            },
-            {
-                "startDate": "2016,3",
-                "headline": "Logo Design for a pet shop",
-                "text": "",
-                "asset": {
-                    "media": "assets/img/shots/pet___you.jpg",
-                    "credit": "<a href='http://dribbble.com/shots/444003-Pet-You'>by Nikita Lebedev</a>",
-                    "caption": ""
-                }
-            },
-            {
-                "startDate": "2016,4",
-                "headline": "Developed an iPad newspaper application",
-                "text": "It was a challenge to create both the design and code in a week.",
-                "asset": {
-                    "media": "assets/img/shots/proto_v4_decoupe_2.jpg",
-                    "credit": "<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
-                    "caption": ""
-                }
-            },
-            {
-                "startDate": "2016,8",
-                "headline": "Illustration for a big client.",
-                "text": "",
-                "asset": {
-                    "media": "assets/img/shots/chameleon.jpg",
-                    "credit": "<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
-                    "caption": ""
-                }
-            },
-            {
-                "startDate": "2016,12",
-                "headline": "Advert for Volkswagen",
-                "text": "Created the website for their new advertising campaign.",
-                "asset": {
-                    "media": "http://www.youtube.com/watch?v=0-9EYFJ4Clo",
+                    "media": "assets/userimg/2018-05-19 19-46.JPG",
                     "credit": "",
                     "caption": ""
                 }
