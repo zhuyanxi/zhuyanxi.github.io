@@ -108,6 +108,16 @@
                     "credit": "",
                     "caption": ""
                 }
+            },
+            {
+                "startDate": "2018,11,03",
+                "headline": "4年的时间",
+                "text": "",
+                "asset": {
+                    "media": "assets/userimg/time.JPG",
+                    "credit": "",
+                    "caption": ""
+                }
             }
         ]
     }
