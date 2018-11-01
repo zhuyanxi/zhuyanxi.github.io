@@ -12,7 +12,7 @@
         "date": [{
                 "startDate": "2015,1,26 15:26",
                 "headline": "西安城楼",
-                "text": "Nature",
+                "text": "15时26分",
                 "asset": {
                     "media": "assets/userimg/2015-01-26 15-26.png",
                     "credit": "",
@@ -20,21 +20,21 @@
                 }
             },
             {
-                "startDate": "2015,5",
-                "headline": "Redesign of my portfolio",
-                "text": "",
+                "startDate": "2015,1,27",
+                "headline": "华清池",
+                "text": "10时27分",
                 "asset": {
-                    "media": "assets/img/shots/sidebar_s3.jpg",
-                    "credit": "<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "media": "assets/userimg/2015-01-27 10-54.png",
+                    "credit": "",
                     "caption": ""
                 }
             },
             {
-                "startDate": "2015,7",
-                "headline": "Another time-lapse experiment",
-                "text": "",
+                "startDate": "2015,1,28",
+                "headline": "不知名状元",
+                "text": "22时54分",
                 "asset": {
-                    "media": "http://vimeo.com/23237102",
+                    "media": "assets/userimg/2015-01-27 10-54.png",
                     "credit": "",
                     "caption": ""
                 }
