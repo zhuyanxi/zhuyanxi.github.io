@@ -16,6 +16,12 @@
     <!--[if lt IE 9]>
           <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
+
+    <style type="text/css">
+        audio {
+            display: none;
+        }
+    </style>
 </head>
 
 <body>
@@ -48,9 +54,10 @@
             </div>
         </div>
     </div>
-    <audio autoplay="autoplay" controls="controls" loop="loop" preload="auto" src="assets/LoveStorymeetsVivaLaVida.mp3">
+    <!-- <audio autoplay="autoplay" controls="controls" loop="loop" preload="auto" src="assets/LoveStorymeetsVivaLaVida.mp3">
       		你的浏览器版本太低，不支持audio标签
-	</audio>
+    </audio> -->
+    <bgsound src="assets/LoveStorymeetsVivaLaVida.mp3" autostart=true loop=infinite></bgsound>
 </body>
 
 </html>
